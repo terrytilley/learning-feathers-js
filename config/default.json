@@ -1,0 +1,13 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "nedb": "../data/",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "TL4lxb6jlvVeXqosIaZCyqJSD7Exyoqovq6W/RsmJxt91wNietXWDpSuQjDnpC3k0oLNdVRLUxhqLDD9MGWMlA=="
+    },
+    "local": {},
+    "successRedirect": "/chat.html"
+  }
+}
